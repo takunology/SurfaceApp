@@ -1,0 +1,15 @@
+C:\Github\SurfaceApp\SurfaceApp\bin\Debug\net6.0\SurfaceApp.exe
+C:\Github\SurfaceApp\SurfaceApp\bin\Debug\net6.0\SurfaceApp.deps.json
+C:\Github\SurfaceApp\SurfaceApp\bin\Debug\net6.0\SurfaceApp.runtimeconfig.json
+C:\Github\SurfaceApp\SurfaceApp\bin\Debug\net6.0\SurfaceApp.dll
+C:\Github\SurfaceApp\SurfaceApp\bin\Debug\net6.0\SurfaceApp.pdb
+C:\Github\SurfaceApp\SurfaceApp\obj\Debug\net6.0\SurfaceApp.csproj.AssemblyReference.cache
+C:\Github\SurfaceApp\SurfaceApp\obj\Debug\net6.0\SurfaceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SurfaceApp\SurfaceApp\obj\Debug\net6.0\SurfaceApp.AssemblyInfoInputs.cache
+C:\Github\SurfaceApp\SurfaceApp\obj\Debug\net6.0\SurfaceApp.AssemblyInfo.cs
+C:\Github\SurfaceApp\SurfaceApp\obj\Debug\net6.0\SurfaceApp.csproj.CoreCompileInputs.cache
+C:\Github\SurfaceApp\SurfaceApp\obj\Debug\net6.0\SurfaceApp.dll
+C:\Github\SurfaceApp\SurfaceApp\obj\Debug\net6.0\refint\SurfaceApp.dll
+C:\Github\SurfaceApp\SurfaceApp\obj\Debug\net6.0\SurfaceApp.pdb
+C:\Github\SurfaceApp\SurfaceApp\obj\Debug\net6.0\SurfaceApp.genruntimeconfig.cache
+C:\Github\SurfaceApp\SurfaceApp\obj\Debug\net6.0\ref\SurfaceApp.dll
